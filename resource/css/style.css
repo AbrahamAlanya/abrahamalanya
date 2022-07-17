@@ -21,10 +21,6 @@ body {
     height: 100vh;
 }
 
-main {
-    width: 60%;
-    margin: auto;
-}
 /* ===================================HEADER================================ */
 /* ==================
 begin checkbox menu 
@@ -86,6 +82,10 @@ begin open menu
 /* ===================================HEADER================================ */
 
 /* ===================================MAIN================================ */
+main {
+    width: 60%;
+    margin: auto;
+}
 .container h2{
     font-size: 4rem;
     margin-top: 3rem;
@@ -93,6 +93,16 @@ begin open menu
 }
 .container_blog {
     text-align: left;
+}
+.container_card {
+    border-radius: 1rem;
+    margin-top: 2rem;
+    text-align: center;
+}
+.container_card img {
+    border-radius: 1rem;
+    opacity: 0.8;
+    width: 10rem;
 }
 .url {
     cursor: pointer;
@@ -109,3 +119,12 @@ footer {
     color: var(--white);
 }
 /* ===================================FOOTER================================ */
+
+/* ===================================MOBILE================================ */
+@media only screen and (min-width: 800px) {
+    main {
+        width: 90%;
+        margin: auto;
+    }
+}
+/* ===================================MOBILE================================ */
