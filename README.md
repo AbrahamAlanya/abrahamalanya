@@ -1,12 +1,14 @@
-# Abraham Alanya
+<h1 align="center">Hola 👋, Soy Abraham Alanya</h1>
+<h3 align="center">Un apasionado desarrollador frontend de Perú 🇵🇪</h3>
 
-Actualmente estoy enfocado en el desarrollo web, asimismo me muestro en constante aprendizaje de nuevos temas y hacks que salen en la industria.
-
-
-## Estadísticas en Github
-![abrahamalanya](https://github-readme-stats.vercel.app/api?username=abrahamalanya&show_icons=true&locale=es&theme=dark)
-
-_Enlace: [Github-readme-stats](https://github.com/anuraghazra/github-readme-stats)_
-
-Quieres conocer mas sobre mi:
-- [Mi Biografia](https://abrahamalanya.github.io/abrahamalanya/)
+```css
+:root {
+  --nombre-completo: "Abraham Alanya";
+  --correo: "alanya.poccomo@gmail.com";
+  --ganas-de-aprender: 100%;
+  --color-favorito: #FFD700;
+}
+```
+```javascript
+let tecnologias = ["html", "css", "javascript", "git"];
+```
