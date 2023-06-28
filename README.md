@@ -6,7 +6,7 @@
   --nombre-completo: "Abraham Alanya";
   --correo: "alanya.poccomo@gmail.com";
   --ganas-de-aprender: 100%;
-  --color-favorito: #FFD700;
+  --color-favorito: gold;
 }
 ```
 ```javascript
